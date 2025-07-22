@@ -1,5 +1,4 @@
 # Advanced Mathematics Repository
-
 ![math](https://github.com/user-attachments/assets/6c634b78-72e5-4b35-930a-e157e3618a01)
 
 
