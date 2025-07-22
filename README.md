@@ -1,6 +1,7 @@
 # Advanced Mathematics Repository
 
-![Alt text](C:\Users\admin\Downloads\math.jpg "Math")
+![math](https://github.com/user-attachments/assets/6c634b78-72e5-4b35-930a-e157e3618a01)
+
 
 A repository for advanced mathematical concepts, algorithms, and implementations. Contains theoretical explanations, practical code examples, and visualizations for various mathematical domains.
 
