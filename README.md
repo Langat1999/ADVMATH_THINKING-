@@ -1,6 +1,6 @@
 # Advanced Mathematics Repository
 
-https://www.pinterest.com/pin/354517801938394136/
+![Alt text](C:\Users\admin\Downloads\math.jpg "Math")
 
 A repository for advanced mathematical concepts, algorithms, and implementations. Contains theoretical explanations, practical code examples, and visualizations for various mathematical domains.
 
